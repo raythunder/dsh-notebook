@@ -2,6 +2,7 @@
   "name": "dsh-notebook",
   "private": true,
   "type": "module",
+  "packageManager": "pnpm@10.19.0",
   "scripts": {
     "dev": "blume dev",
     "build": "blume build",
